@@ -7,7 +7,7 @@ Most resources will be provided in jupyter notebooks, but before we access those
 # Step 1: Check Python Installation
 First, let's check if Python is already installed on your system. Open a new Jupyter Notebook and create a cell with the following code:
 
-__macOS (using Homebrew):__
+__macOS (using [Homebrew](https://brew.sh/)):__
 
 _in a terminal window_
 
